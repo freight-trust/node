@@ -1,0 +1,27 @@
+{
+  "name": "@freight-trust/besu",
+  "version": "211.0.0",
+  "description": "hyperleedger besu node connection information",
+  "main": "genesis.js",
+  "scripts": {
+    "test": "test:network"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freight-trust/node.git"
+  },
+  "keywords": [
+    "hyperledger",
+    "ethereum",
+    "enterprise",
+    "logistics",
+    "supply",
+    "chain"
+  ],
+  "author": "SEE LICENSE",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/freight-trust/node/issues"
+  },
+  "homepage": "https://github.com/freight-trust/node#readme"
+}
