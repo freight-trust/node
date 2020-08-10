@@ -1,0 +1,3 @@
+curl --request POST 'http://18.216.213.235:8545' \
+--header 'Content-Type: text/plain' \
+--data-raw '{"jsonrpc":"2.0","method":"net_enode","params":[],"id":1}'
