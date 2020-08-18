@@ -1,0 +1,15 @@
+ndoe_modules
+.vscode
+*.vscode
+*.idea
+.idea
+*.tar.gz
+*.tar
+*.zip
+key
+keys
+Key
+pubkey
+*.pkcs
+*.ssl
+
